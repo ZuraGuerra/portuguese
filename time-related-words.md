@@ -1,7 +1,7 @@
 # Time-related Words
 Los nombres se escriben empezando con mayúscula en medio de oraciones, como en inglés.
 
-## Days of the Week
+## Days of the Week
 | Português | Spanish |
 | ------- | ------ |
 | Domingo   | domingo  |
