@@ -3,7 +3,7 @@ Los nombres se escriben empezando con mayúscula en medio de oraciones, como en 
 
 ## Days of the Week
 | Português | Spanish |
-| ------- | ------|
+| ------- | ------ |
 | Domingo   | domingo  |
 | Segunda-feira | lunes |
 | Terça-feira   | martes  |
