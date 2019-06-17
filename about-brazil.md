@@ -8,3 +8,5 @@
 * [João Goulart](https://en.wikipedia.org/wiki/João_Goulart), un presidente de Brasil ingeniero interesante.
 * La independencia (7 de septiembre) es un festivo en el que la gente aprovecha para viajar, no es una fiesta (peda) larga como en México.
 * Se celebra la [Festa Junina](https://en.wikipedia.org/wiki/Festa_Junina), un festival de agricultura, a finales de junio; originalmente para agradecer la temporada de lluvia. Tiene platos exclusivos (_a comida junina_).
+* Como en el resto del mundo (excepto México), la puntualidad se toma en serio en situaciones casuales.
+* Es válido llevar gente extra sin avisar a fiestas casuales, si llevan alcohol (random LATAM note: en Chile no está bien visto, en México sí).
